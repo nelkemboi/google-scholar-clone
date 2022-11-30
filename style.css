@@ -1,0 +1,39 @@
+div {
+display: block;
+}
+.title {
+display: block;
+max-width: 200px;
+margin-top: auto;
+margin-left: 500px;
+margin-right: 500px;
+
+}
+.txt {
+display: block;
+min-width: 500px;
+margin-left: 300px;
+margin-right: 250px;   
+}
+ .cont {
+    display: block;
+    margin-left: 400px;
+    margin-right: 400px;
+    font-size: larger;
+    font-style: normal; 
+    margin-top: 20px;
+    color: green;
+    
+ } .main {
+    display: block;
+    margin-left: 450px;
+    margin-right: 450px;
+    margin-top: 20px;
+ }
+  .total { 
+    display: block;
+    padding-left: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-right: 50px;
+  }
